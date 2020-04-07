@@ -1,5 +1,5 @@
-Analyzing and Predicting the Probability of Developing Chronic Heart Disease
-Using Framingham Heart Study Dataset
+**Analyzing and Predicting the Probability of Developing Chronic Heart Disease
+Using Framingham Heart Study Dataset**
 
 
 Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States. Heart disease costs the United States about 219 billion dollars each year from 2014 to 2015. Analyzing and predicting the likelihood of developing CHD could help greatly in implementing prevention strategies to decrease the occurrence of CHD and therefore reducing the number of deaths in the US and the cost
